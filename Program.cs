@@ -10,7 +10,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World !, \nTejas Ramakrishna is the brilliant person of this world");
+            Console.WriteLine("Hello World !,\n");
+            Console.WriteLine("Hai Team..");
             Console.ReadLine();
         }
     }
