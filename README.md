@@ -1,2 +1,0 @@
-# CIandCD
-CIandCD for Devops
